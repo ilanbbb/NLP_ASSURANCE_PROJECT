@@ -49,7 +49,9 @@ pip install -r requirements.txt
 # 4. Lancer l'app
 streamlit run app.py
 ```
+### lien vidéo
 
+https://drive.google.com/file/d/1F_g-pFxgVUm1kZiuji0PL_OHT0VwuAYb/view?usp=drive_link
 ---
 
 **Packages principaux :**
