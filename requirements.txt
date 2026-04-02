@@ -1,0 +1,34 @@
+# ── Data manipulation ─────────────────────────────────────────────────────────
+pandas
+numpy
+openpyxl                  # lecture des fichiers Excel
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib
+seaborn
+wordcloud
+pyLDAvis
+
+# ── NLP ───────────────────────────────────────────────────────────────────────
+nltk
+gensim                    # Word2Vec + GloVe downloader
+pyspellchecker            # correction orthographique
+
+# ── Machine Learning classique ────────────────────────────────────────────────
+scikit-learn
+joblib
+
+# ── Deep Learning ─────────────────────────────────────────────────────────────
+tensorflow
+torch
+transformers              # CamemBERT, zero-shot classification
+
+# ── Interprétabilité ──────────────────────────────────────────────────────────
+lime
+shap
+
+# ── Application Streamlit ─────────────────────────────────────────────────────
+streamlit
+lime
+joblib
+gensim
