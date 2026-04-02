@@ -63,7 +63,7 @@ lime, shap, pyLDAvis                 # interprétabilité
 streamlit                            # application web
 ```
 
-## 👥 Auteurs
+##  Auteurs
 
 - Étudiant 1 — BOULMIER Ilan
 - Étudiant 2 — COLIN DE VERDIERES Thomas
