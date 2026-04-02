@@ -22,6 +22,8 @@ Ce projet applique des techniques de **traitement automatique du langage naturel
 ### 05 — Interprétation des résultats
 
 ##  Application Streamlit
+! IMPORTANT ! Le lien suivant permet d'avoir le dataset pour la recherche sémantique a placé dans le meme dossier que app.py
+https://drive.google.com/file/d/1_pdQmzLrP4S5gf9yd8mop6qDzq23jjMr/view?usp=drive_link
 
 L'application propose 5 fonctionnalités :
 
