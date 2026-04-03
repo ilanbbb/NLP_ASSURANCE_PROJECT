@@ -45,8 +45,7 @@ cd project2_nlp
 # 2. Installer les dépendances
 pip install -r requirements.txt
 
-# 3. Lancer les notebooks dans l'ordre (génère les fichiers nécessaires)
-# 01_exploration → 02_cleaning → 03_embeddings → 04_supervised_models
+# 3. les fichier utile à l'application sont dans app_streamlit (Rajouter le dataset)
 
 # 4. Lancer l'app
 streamlit run app.py
